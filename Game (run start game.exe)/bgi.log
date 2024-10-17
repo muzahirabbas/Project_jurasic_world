@@ -1,0 +1,19 @@
+﻿  example.cpp
+c:\jurasic park pixels\example.cpp(25): warning C4042: 'unnamed-parameter' : has bad storage class
+c:\jurasic park pixels\example.cpp(26): warning C4042: 'unnamed-parameter' : has bad storage class
+c:\jurasic park pixels\example.cpp(27): warning C4042: 'unnamed-parameter' : has bad storage class
+c:\jurasic park pixels\example.cpp(28): warning C4042: 'unnamed-parameter' : has bad storage class
+c:\jurasic park pixels\example.cpp(29): warning C4042: 'unnamed-parameter' : has bad storage class
+c:\jurasic park pixels\example.cpp(30): warning C4042: 'unnamed-parameter' : has bad storage class
+c:\jurasic park pixels\example.cpp(115): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\jurasic park pixels\example.cpp(159): warning C4042: 'a' : has bad storage class
+c:\jurasic park pixels\example.cpp(159): warning C4042: 'b' : has bad storage class
+c:\jurasic park pixels\example.cpp(202): warning C4042: 'a' : has bad storage class
+c:\jurasic park pixels\example.cpp(202): warning C4042: 'b' : has bad storage class
+c:\jurasic park pixels\example.cpp(245): warning C4042: 'a' : has bad storage class
+c:\jurasic park pixels\example.cpp(245): warning C4042: 'b' : has bad storage class
+c:\jurasic park pixels\example.cpp(288): warning C4042: 'a' : has bad storage class
+c:\jurasic park pixels\example.cpp(288): warning C4042: 'b' : has bad storage class
+c:\jurasic park pixels\example.cpp(320): warning C4042: 'a' : has bad storage class
+c:\jurasic park pixels\example.cpp(320): warning C4042: 'b' : has bad storage class
+  bgi.vcxproj -> C:\Jurasic park pixels\Debug\bgi.exe
